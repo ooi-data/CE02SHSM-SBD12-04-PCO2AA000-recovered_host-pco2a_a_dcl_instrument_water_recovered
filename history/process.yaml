@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-04-PCO2AA000-recovered_host-pco2a_a_dcl_instrument_water_recovered
 data_stream: CE02SHSM-SBD12-04-PCO2AA000-recovered_host-pco2a_a_dcl_instrument_water_recovered
 end_date: '2021-03-15T09:59:31.669Z'
-last_updated: '2021-09-18T03:28:00.693963Z'
+last_updated: '2021-09-18T03:38:21.149384'
 start_date: '2015-04-02T21:00:20.145Z'
-status: pending
+status: success
