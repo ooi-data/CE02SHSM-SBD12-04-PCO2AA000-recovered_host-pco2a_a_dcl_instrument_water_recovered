@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE02SHSM-SBD12-04-PCO2AA000-recovered_host-pco2a_a_dcl_instrument_water_recovered
-last_request: '2022-01-01T02:21:58.751697Z'
+last_request: '2022-01-21T03:03:51.103883Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSM-SBD12-04-PCO2AA000-recovered_host-pco2a_a_dcl_instrument_water_recovered/main/history/response.json
-status: success
+status: pending
